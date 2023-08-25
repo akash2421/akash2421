@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://myportfolio-akash-suthar.netlify.app/)
 
-- 🌱 I’m currently learning **React js, MongoDB**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 My Favour [Modern Service](https://modern-website-akash.netlify.app/)
 
