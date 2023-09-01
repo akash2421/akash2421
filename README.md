@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash2421&label=Profile%20views&color=0e75b6&style=flat" alt="akash2421" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://myportfolio-akash-suthar.netlify.app/)
+- 🔭 I’m currently working on [Portfolio Website](https://akash-suthar-profile.netlify.app/)
 
 - 🌱 I’m currently learning **Angular**
 
